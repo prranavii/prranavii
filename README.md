@@ -1,13 +1,11 @@
-
 # Hi, I'm Pranavi Jain 👋  
 
 🎓 B.Tech CSE at Galgotias University  
 🌱 Currently learning Full Stack Development  
-🤖 Exploring AI + ML Integration in Web Applications
+🤖 Exploring AI + ML Integration in Web Applications  
 👯 Open to collaborate on interesting projects  
 💬 Ask me about Node.js, Python  
 💡 Open Source enthusiast  
-
 
 ### 💻 Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

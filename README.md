@@ -3,6 +3,7 @@
 
  
 🎓 B.Tech CSE at Galgotias University
+---
 🌱 Currently learning Full Stack Development
 🤖 Exploring AI + ML Integration in Web Applications  
 👯 Open to collaborate on interesting projects

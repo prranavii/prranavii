@@ -1,4 +1,4 @@
-# Hi, I'm Pranavi Jain 👋  
+  
 <h1 align="center">Welcome to Pranavi's Profile! 👋</h1>
 
 <p align="center">

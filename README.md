@@ -1,15 +1,38 @@
 
-# Hi, I'm Pranavi Jain 👋
+# Hi, I'm Pranavi Jain 👋  
 
- 
-🎓 B.Tech CSE at Galgotias University
+🎓 B.Tech CSE Student at Galgotias University  
+💻 Full Stack Developer | AI Enthusiast  
+🚀 Building scalable web applications with intelligent systems  
+
 ---
-🌱 Currently learning Full Stack Development
-🤖 Exploring AI + ML Integration in Web Applications  
-👯 Open to collaborate on interesting projects
-💬 Ask me about Node.js, Python, IoT
-💡 Open Source enthusiast
 
+## 🌱 Currently
+
+- Mastering Data Structures & Algorithms  
+- Developing AI-powered Web Applications  
+- Strengthening Backend Development (Spring Boot & FastAPI)  
+
+---
+
+## 💬 Ask Me About
+
+Java | Python | React | Node.js | Spring Boot | REST APIs  
+
+---
+
+## 🤝 Open To
+
+- Open Source Contributions  
+- Collaborative Projects  
+- Internship Opportunities  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: (add your link)  
+Email: (add your email)
 ## 🛠 Technologies & Tools  
 
 ### 💻 Languages  

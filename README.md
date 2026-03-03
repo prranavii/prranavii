@@ -1,39 +1,12 @@
 
 # Hi, I'm Pranavi Jain 👋  
-
-🎓 B.Tech CSE Student at Galgotias University  
-💻 Full Stack Developer | AI Enthusiast  
-🚀 Building scalable web applications with intelligent systems  
-
----
-
-## 🌱 Currently
-
-- Mastering Data Structures & Algorithms  
-- Developing AI-powered Web Applications  
-- Strengthening Backend Development (Spring Boot & FastAPI)  
-
----
-
-## 💬 Ask Me About
-
-Java | Python | React | Node.js | Spring Boot | REST APIs  
-
----
-
-## 🤝 Open To
-
-- Open Source Contributions  
-- Collaborative Projects  
-- Internship Opportunities  
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: (add your link)  
-Email: (add your email)
-## 🛠 Technologies & Tools  
+🎓 B.Tech CSE at Galgotias University
+🌱 Currently learning Full Stack Development
+👯 Open to collaborate on interesting projects
+💬 Ask me about Node.js, Python, IoT
+💡 Open Source enthusiast
+⚙️ Tech stack: VS Code, Arduino, Raspberry Pi, IoT devices
+⚡ Fun fact: The longest open pull request on GitHub lasted 2,993 days! 😄
 
 ### 💻 Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

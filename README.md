@@ -1,12 +1,13 @@
 
 # Hi, I'm Pranavi Jain 👋  
-🎓 B.Tech CSE at Galgotias University
-🌱 Currently learning Full Stack Development
-👯 Open to collaborate on interesting projects
-💬 Ask me about Node.js, Python, IoT
-💡 Open Source enthusiast
-⚙️ Tech stack: VS Code, Arduino, Raspberry Pi, IoT devices
-⚡ Fun fact: The longest open pull request on GitHub lasted 2,993 days! 😄
+
+🎓 B.Tech CSE at Galgotias University  
+🌱 Currently learning Full Stack Development  
+🤖 Exploring AI + ML Integration in Web Applications
+👯 Open to collaborate on interesting projects  
+💬 Ask me about Node.js, Python  
+💡 Open Source enthusiast  
+
 
 ### 💻 Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

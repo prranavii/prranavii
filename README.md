@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2B+ML+Enthusiast;Building+Impactful+Web+Applications;Open+Source+Contributor" />
 </p>
+
 🎓 B.Tech CSE at Galgotias University  
 🌱 Currently learning Full Stack Development  
 🤖 Exploring AI + ML Integration in Web Applications  

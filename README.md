@@ -52,7 +52,6 @@ Built around a React frontend and FastAPI backend with locally running LLMs thro
 ---
 
 ## Technologies
-## Technologies
 
 **Languages**  
 Java · Python · JavaScript

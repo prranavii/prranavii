@@ -18,6 +18,10 @@ Currently exploring how **RAG, language models and backend engineering** can be 
 
 ---
 
+## 🚀 What I Build
+
+🤖 **GenAI Applications** · 🔎 **RAG Systems** · ⚡ **AI Automations** · 🧠 **AI Agents** · ⚙️ **Backend Systems** · 🌐 **Full-Stack Applications**
+
 ## Projects
 
 ### IntelliRAG

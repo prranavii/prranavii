@@ -85,9 +85,6 @@ Git · GitHub · Docker · REST APIs
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prranavii&theme=github_dark"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prranavii&theme=github-compact&hide_border=true"/>
-</p>
 
 ---
 

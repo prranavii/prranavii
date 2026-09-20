@@ -52,6 +52,7 @@ Built around a React frontend and FastAPI backend with locally running LLMs thro
 ---
 
 ## Technologies
+## Technologies
 
 **Languages**  
 Java · Python · JavaScript
@@ -60,12 +61,15 @@ Java · Python · JavaScript
 Spring Boot · FastAPI · Node.js · Express.js · React
 
 **Generative AI**  
-LLMs · RAG · LangChain · Ollama · Llama 3.1 · Vector Embeddings
+LLMs · RAG · LangChain · Ollama · Llama · Vector Embeddings · Semantic Search
+
+**AI Automation**  
+n8n · AI Agents · Workflow Automation · Webhooks · API Integrations · LLM Workflows
 
 **Databases**  
-MongoDB · MySQL · Vector Databases
+MongoDB · MySQL · ChromaDB · Vector Databases
 
-**Tools**  
+**Tools & DevOps**  
 Git · GitHub · Docker · REST APIs
 
 ---

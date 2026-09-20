@@ -94,7 +94,4 @@ Git · GitHub · Docker · REST APIs
 - **Email** — pranavijain47@gmail.com
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prranavii&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
 <sub>Building things, breaking things, understanding why, and building them better.</sub>

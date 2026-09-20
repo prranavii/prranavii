@@ -18,14 +18,14 @@ Currently exploring how **RAG, language models and backend engineering** can be 
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
-- 🤖 **GenAI Applications** — LLM-powered tools and intelligent applications
-- 🔎 **RAG Systems** — Document and codebase retrieval with context-aware generation
-- ⚡ **AI Automations** — Automated workflows connecting AI, APIs, tools and business processes
-- 🧠 **AI Agents** — Intelligent agents capable of reasoning and executing multi-step workflows
-- ⚙️ **Backend Systems** — REST APIs, backend services and AI-powered architectures
-- 🌐 **Full-Stack Applications** — Modern web applications with AI integrated into the workflow
+- **GenAI Applications** — LLM-powered tools and intelligent applications
+- **RAG Systems** — Document and codebase retrieval with context-aware generation
+- **AI Automations** — Automated workflows connecting AI, APIs, tools and business processes
+- **AI Agents** — Intelligent agents capable of reasoning and executing multi-step workflows
+- **Backend Systems** — REST APIs, backend services and AI-powered architectures
+- **Full-Stack Applications** — Modern web applications with AI integrated into the workflow
 
 ## Projects
 

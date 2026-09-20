@@ -51,6 +51,64 @@ Built around a React frontend and FastAPI backend with locally running LLMs thro
 
 ---
 
+## 🛠️ Skills
+
+<p align="left">
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" width="50" />
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="50" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=javascript" width="50" />
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" width="50" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" width="50" />
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://skillicons.dev/icons?i=spring" width="50" />
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" width="50" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="50" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" width="50" />
+</a>
+
+</p>
+
 ## Technologies
 
 **Languages**  
